@@ -1,4 +1,4 @@
-
+//2367. Number of Arithmetic Triplets
 
 class Solution {
     public int arithmeticTriplets(int[] nums, int diff) {
